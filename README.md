@@ -8,7 +8,7 @@
 💡 &nbsp;&nbsp;I like to use criativity in the endless world of coding.\
 🌱 &nbsp;I'm on track for learning more about javascript testing library.\
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" src="/hello-github.gif" align="right"/>
 
 
 ### 🛠 &nbsp;Tech Stack
