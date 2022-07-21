@@ -1,16 +1,12 @@
 ### &nbsp;Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="21">
 
-# I'm Zahra
+# I'm Zahra 🌼
 
 ### 👩‍💻 &nbsp;About Me
 
-💻 &nbsp;I'm a Front-end Developer.
-💡 &nbsp;I like to use criativity in the endless world of coding.\
-🎓 &nbsp;I'm currently studying Computer Science and Mathematics at the University of Massachusetts Amherst.\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
-✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at avsingh@umass.edu! I'll try to respond as soon as I can.\
+💻 &nbsp;I'm a Front-end Developer.\
+💡 &nbsp;&nbsp;I like to use criativity in the endless world of coding.\
+🌱 &nbsp;I'm on track for learning more about javascript testing library.\
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
