@@ -21,6 +21,7 @@
 ![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux&logoColor=764ABC)\
 ![React Query](https://img.shields.io/badge/-ReactQuery-05122A?style=flat&logo=reactQuery&logoColor=FF4154)&nbsp;
 ![React Router](https://img.shields.io/badge/-ReactRouter-05122A?style=flat&logo=reactRouter&logoColor=FF4154)&nbsp;
+![Jest](https://img.shields.io/badge/-Jest-05122A?style=flat&logo=jest&logoColor=C21325)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![SASS](https://img.shields.io/badge/-SASS-05122A?style=flat&logo=sass&logoColor=CC6699)&nbsp;
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=tailwindCSS&logoColor=06B6D4)\
