@@ -1,36 +1,41 @@
 ### &nbsp;Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="21">
 
-# I'm Zahra 🌼
+# I'm Zahra
 
+<img alt="Night Coding" src="/hello-github-large.gif" align="right"/>
 ### 👩‍💻 &nbsp;About Me
 
 💻 &nbsp;I'm a Front-end Developer.\
 💡 &nbsp;&nbsp;I like to use criativity in the endless world of coding.\
-🌱 &nbsp;I'm on track for learning more about javascript testing library.\
+🌱 &nbsp;I'm on track for learning more about javascript testing library.
 
-<img alt="Night Coding" src="/hello-github-large.gif" align="right"/>
+<br/>
+<br/>
+<br/>
+<br/>
+
 
 
 ### 🛠 &nbsp;Tech Stack
 
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp;
-![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux&logoColor=764ABC)\
-![React Query](https://img.shields.io/badge/-ReactQuery-05122A?style=flat&logo=reactQuery&logoColor=FF4154)&nbsp;
-![React Router](https://img.shields.io/badge/-ReactRouter-05122A?style=flat&logo=reactRouter&logoColor=FF4154)&nbsp;
-![Jest](https://img.shields.io/badge/-Jest-05122A?style=flat&logo=jest&logoColor=C21325)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![SASS](https://img.shields.io/badge/-SASS-05122A?style=flat&logo=sass&logoColor=CC6699)&nbsp;
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=tailwindCSS&logoColor=06B6D4)\
-![MUI](https://img.shields.io/badge/-MUI-05122A?style=flat&logo=mui&logoColor=007FFF)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)\
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)\
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=for-the-badge&logo=typescript)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=for-the-badge&logo=react)&nbsp;
+![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=for-the-badge&logo=next.js)&nbsp;
+![Redux](https://img.shields.io/badge/-Redux-05122A?style=for-the-badge&logo=redux&logoColor=764ABC)&nbsp;
+![React Query](https://img.shields.io/badge/-ReactQuery-05122A?style=for-the-badge&logo=reactQuery&logoColor=FF4154)&nbsp;
+![React Router](https://img.shields.io/badge/-ReactRouter-05122A?style=for-the-badge&logo=reactRouter&logoColor=FF4154)&nbsp;
+![Jest](https://img.shields.io/badge/-Jest-05122A?style=for-the-badge&logo=jest&logoColor=C21325)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
+![SASS](https://img.shields.io/badge/-SASS-05122A?style=for-the-badge&logo=sass&logoColor=CC6699)&nbsp;
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=for-the-badge&logo=tailwindCSS&logoColor=06B6D4)&nbsp;
+![MUI](https://img.shields.io/badge/-MUI-05122A?style=for-the-badge&logo=mui&logoColor=007FFF)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=for-the-badge&logo=bootstrap&logoColor=563D7C)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=HTML5)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 
 ### ⚙️ &nbsp;GitHub Analytics
