@@ -7,7 +7,7 @@
 ### 👩‍💻 &nbsp;About Me
 
 💻 &nbsp;I'm a Front-end Developer.\
-💡 &nbsp;&nbsp;I like to use criativity in the endless world of coding.\
+💡 &nbsp;&nbsp;I'd like to use Creativity in the endless world of coding.\
 🌱 &nbsp;I'm on track for learning more about javascript testing library.
 
 <br/>
