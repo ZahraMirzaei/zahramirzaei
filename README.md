@@ -1,14 +1,14 @@
 ### &nbsp;Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="21">
 
-# I'm Zahra
+# Hi there
 
 <img alt="Night Coding" src="/hello-github-large.gif" align="right"/>
 
 ### 👩‍💻 &nbsp;About Me
 
-💻 &nbsp;I'm a Front-end Developer.\
-💡 &nbsp;&nbsp;I'd like to use Creativity in the endless world of coding.\
-🌱 &nbsp;I'm on track for learning more about javascript testing library.
+💻 &nbsp; I'm a Front-end Developer.\
+💡 &nbsp;&nbsp; I'd like to use Creativity in the endless world of coding.\
+🌱 &nbsp; I'm on track for learning more about JavaScript testing library.
 
 <br/>
 <br/>
